@@ -95,7 +95,7 @@ composer create-project topthink/think website_directory
 #### (3) 修改.env文件，配置数据库，开启调试
 #### (4) 配置站点、本地域名、开启虚拟服务器
 ```
-php tihink run
+php think run
 ```
 ### 2. 前端UI设计
 引入BootStrap，讲将js和css文件夹拷贝至项目public/static下，配置config/view.php，设置静态调用的模板路径。
