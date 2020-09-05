@@ -206,3 +206,6 @@ php tihink run
 * 编辑商品分类：修改指定商品分类记录
 * 删除商品分类：删除指定商品分类记录
 * 新增商品和编辑商品时应有分类选择
+
+[本课程示例](http://ecommerce.zrise.top/)
+[课程Github](https://github.com/zoey-cheung/2020-Maritime-Website-Training)
